@@ -5,3 +5,4 @@ Capitan Ameria
 Thor
 Capitana Marvel
 Ant man
+Pantera Negra
